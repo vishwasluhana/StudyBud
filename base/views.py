@@ -9,13 +9,6 @@ from .models import Room, Topic
 from .forms import RoomForm
 
 
-# dummy data
-# rooms = [
-#     {'id': 1, 'name': 'Lets learn python'},
-#     {'id': 2, 'name': 'Design with me'},
-#     {'id': 3, 'name': 'Frontend with me'},
-# ]
-
 def loginPage(request):
 
     if request.method == 'POST':
