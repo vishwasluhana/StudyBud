@@ -10,4 +10,4 @@ Link to the tutorial: https://youtu.be/PtQiiknWUcI
 
 Link to the hosted project: https://studybuddev.herokuapp.com/
 
-There currently multiple bugs that needs to be fixed. I will be updating this project by fixing bugs.
+*Note: There currently multiple bugs that needs to be fixed. I will be updating this project by fixing bugs.*
