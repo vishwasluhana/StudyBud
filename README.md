@@ -9,3 +9,5 @@ This project was completed by following a Youtuber named [Dennis Ivy](https://ww
 Link to the tutorial: https://youtu.be/PtQiiknWUcI
 
 Link to the hosted project: https://studybuddev.herokuapp.com/
+
+There currently multiple bugs that needs to be fixed. I will be updating this project by fixing bugs.
