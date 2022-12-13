@@ -3,3 +3,4 @@ Pipfile.lock
 __pycache__
 theme
 test.html
+.DS_Store
